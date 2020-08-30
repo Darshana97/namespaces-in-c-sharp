@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
+/*using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PATA = ProjectA.TeamA;
-using ProjectA.TeamB;
+using ProjectA.TeamB;*/
 
 namespace namespaces
 {
@@ -21,7 +21,7 @@ namespace namespaces
     }
 }
 
-namespace ProjectA
+/*namespace ProjectA
 {
     namespace TeamA
     {
@@ -33,7 +33,7 @@ namespace ProjectA
             }
         }
     }
-}
+}*/
 
 namespace ProjectA
 {
