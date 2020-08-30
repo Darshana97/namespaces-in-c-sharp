@@ -35,7 +35,7 @@ namespace namespaces
     }
 }*/
 
-namespace ProjectA
+/*namespace ProjectA
 {
     namespace TeamB
     {
@@ -47,4 +47,4 @@ namespace ProjectA
             }
         }
     }
-}
+}*/
