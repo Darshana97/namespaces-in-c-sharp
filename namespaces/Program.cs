@@ -12,9 +12,9 @@ namespace namespaces
     {
         static void Main(string[] args)
         {
-            PATA.ClassA.Print();
+            /*PATA.ClassA.Print();
             ClassA.Print();
-            Console.ReadLine();
+            Console.ReadLine();*/
 
 
         }
