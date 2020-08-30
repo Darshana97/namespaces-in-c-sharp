@@ -2,9 +2,13 @@
 /*using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks;*/
 using PATA = ProjectA.TeamA;
+using PATB = ProjectA.TeamB;
+/*using PATA = ProjectA.TeamA;
 using ProjectA.TeamB;*/
+
+
 
 namespace namespaces
 {
@@ -16,6 +20,8 @@ namespace namespaces
             ClassA.Print();
             Console.ReadLine();*/
 
+            PATA.ClassA.Print();
+            PATB.ClassA.Print();
 
         }
     }
