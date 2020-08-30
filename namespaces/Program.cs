@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PATA = ProjectA.TeamA;
+using ProjectA.TeamB;
 
 namespace namespaces
 {
@@ -10,8 +12,8 @@ namespace namespaces
     {
         static void Main(string[] args)
         {
-            ProjectA.TeamA.ClassA.Print();
-            ProjectA.TeamB.ClassA.Print();
+            PATA.ClassA.Print();
+            ClassA.Print();
             Console.ReadLine();
 
 
