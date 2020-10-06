@@ -1,1 +1,1 @@
-# namespaces-in-c-sharp
+# namespaces-in-c_sharp
